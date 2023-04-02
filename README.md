@@ -2,19 +2,17 @@
 
 
 ## I hate Angular.
-
-
-I think Angular is the worst framework out there. It is so strange to me that there are so many people using it. There are people that truly love it?! Wtf? Really? This piece of shit?
+Angular is the shittiest fucking framework out there. It's an abomination that somehow manages to be both bloated and rigid at the same time. How the hell can anyone genuinely enjoy working with this piece of shit? There are actually people who love it?! What the fuck?
 
 
 ### A little of my background
-I have worked with Vue 2.x and 3.x, Svelte 3.x, React 15.x and 16.x, AngularJS, Angular 12.x and 13.x, jQuery, jQuery Mobile, built a custom framework with own router and components, and more, so I had an opportunity to compare it.
+I have worked with Vue 2.x and 3.x, Svelte 3.x, React 15.x and 16.x, AngularJS, Angular 12.x and 13.x, jQuery, jQuery Mobile, built a custom framework with my own router and components, and more. So I've had plenty of opportunities to compare them.
 
-When I work on Angular app it feels like somebody tied your right arm to you left leg. You always wrestle with the thing. On other projects developers talk mostly about some interesting technicalities, about the various designs of application parts and systems, but on angular projects, devs talk mostly about the stupid framework.
+When I work on an Angular app, it feels like someone tied my right arm to my left leg. It's like constantly wrestling with this lumbering behemoth. On other projects, developers talk about interesting technicalities and various designs of application parts and systems, but on Angular projects, all they do is talk about this stupid fucking framework.
 
 
 ## "Angular Framework is a very powerful tool for enterprise apps"
-Yeah, right. Too me, it's just a big pile of crap. Enterprise apps - my ass! It's just an excuse to have this unnecessary large and inflexible lump of code. Like, with jQuery nobody did an enterprise app. It's just not possible. What does enterprise app even mean?
+Yeah, right. To me, it's just a steaming pile of bullshit. "Enterprise apps" my ass! It's just an excuse to justify this bloated, inflexible hunk of code. Like, with jQuery nobody did an enterprise app. It's just not possible. What does enterprise app even mean?
 
 
 ## "Angular is a framework, it's not just a library like React"
